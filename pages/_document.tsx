@@ -3,10 +3,7 @@ export default class CustomDocument extends Document {
     render() {
         return (
             <Html>
-                <Head>
-                    <meta property="custom" content="123123" />
-                    <title>똔개</title>
-                </Head>
+                <Head></Head>
                 <body>
                     <Main />
                 </body>
