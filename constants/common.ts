@@ -3,3 +3,8 @@ export const RouteLink = {
         PEOPLE: "/manage/people",
     },
 };
+
+export const PeoplePictureSize = {
+    width: 240,
+    height: 300,
+};
